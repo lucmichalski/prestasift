@@ -1,6 +1,11 @@
 # prestasift
 Prestashop code static analysis and vulnerabilities
 
+## Quick run
+```sh
+$ ./check.sh
+```
+
 ## Goals
 - create terminal ui for validating safe sql statements
 - create a hash for each matching result
