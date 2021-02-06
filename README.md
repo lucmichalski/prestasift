@@ -10,7 +10,7 @@ $ ./check.sh
 - create terminal ui for validating safe sql statements
 - create a hash for each matching result
 - validate only not moderated sql statements
-- ablility to scroll the file if the sql statement is a file
+- ablility to scroll the file if the sql statement is a variable
 - create a config file for loading scanning options
 
 ## References
