@@ -12,6 +12,7 @@ $ ./check.sh
 - validate only not moderated sql statements
 - ablility to scroll the file if the sql statement is a variable
 - create a config file for loading scanning options
+- generate a csv, json output from the results
 
 ## References
 - https://github.com/gizak/termui
