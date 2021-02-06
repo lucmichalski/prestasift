@@ -14,6 +14,8 @@ Prestashop code static analysis and vulnerabilities
 -	https://github.com/xxjwxc/public/tree/master/myclipboard
 - https://github.com/xxjwxc/public/tree/master/mycui
 - https://github.com/jinzhu/configor
+- https://github.com/agrison/go-tablib
+- https://github.com/go-gorm/gorm
 
 ## Examples of TUI
 ![alt text](https://raw.githubusercontent.com/xxjwxc/gormt/master/image/gormt/ui_en.gif "gormt cui")
