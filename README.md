@@ -175,6 +175,7 @@ modules/gamification/upgrade/install-1.8.9.php:34:5:type="execute", query="'ALTE
 - https://github.com/jinzhu/configor
 - https://github.com/agrison/go-tablib
 - https://github.com/go-gorm/gorm
+- https://github.com/dgraph-io/badger
 
 ## Examples of TUI
 ![alt text](https://raw.githubusercontent.com/xxjwxc/gormt/master/image/gormt/ui_en.gif "gormt cui")
